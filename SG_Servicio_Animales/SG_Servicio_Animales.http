@@ -1,0 +1,6 @@
+@SG_Servicio_Animales_HostAddress = http://localhost:5033
+
+GET {{SG_Servicio_Animales_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
