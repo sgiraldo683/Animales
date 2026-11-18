@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SG_Aplicaciones_Animales/SG_Aplicaciones_Animales.csproj" />
+  <Project Path="SG_Front_Animales/SG_Front_Animales.csproj" />
+  <Project Path="SG_lib_Presentacion/SG_lib_Presentacion.csproj" />
+  <Project Path="SG_Servicio_Animales/SG_Servicio_Animales.csproj" />
+</Solution>
